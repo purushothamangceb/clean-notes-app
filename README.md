@@ -13,7 +13,7 @@ Android Simple Notes App in Kotlin by using Clean Architecture, MVVM, MAD, Jetpa
 * Hilt
 
 ## Screenshots
-![notelist](https://github.com/purushothamangceb/clean-notes-app/blob/master/screenshots/notes_list.png)
-![editnote](https://github.com/purushothamangceb/clean-notes-app/blob/master/screenshots/notes_list.png)
+![notelist](https://github.com/purushothamangceb/clean-notes-app/blob/main/screenshots/notes_list.png)
+![editnote](https://github.com/purushothamangceb/clean-notes-app/blob/main/screenshots/edit_note.png)
 
 
